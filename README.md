@@ -3,4 +3,4 @@ Demo for git
 
 Edited message.
 
-Edit from withing GitHub.
+Edit from withing GitHub. Conflicting line.
