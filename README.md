@@ -2,3 +2,5 @@
 Demo for git
 
 Edited message.
+
+Edit from withing GitHub.
